@@ -1,6 +1,7 @@
 # Date Csv Generator
 
-a program that gets all the sundays of the year and takes a year as a param
+a program that gets all the sundays of the year and takes a year as a param then outputs it into a CSV
+
 
 ## Usage
 
